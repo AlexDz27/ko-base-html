@@ -9,3 +9,8 @@
   padding-top: 1rem;
   padding-bottom: 2rem;
 }
+
+.section__body--scratch-control__forever {
+  display: grid;
+  grid-template-columns: 70% 1fr;
+}
