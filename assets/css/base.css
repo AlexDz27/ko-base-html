@@ -5,6 +5,10 @@
   border-bottom: 3px solid red;
 }
 
+.red-border-bottom {
+  border-bottom: 3px solid red;
+}
+
 .btn {
   background-color: transparent;
   border: none;

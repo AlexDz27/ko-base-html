@@ -1,5 +1,8 @@
 .section {
   margin-bottom: 4.5rem;
+  background-color: #ececec;
+  padding: 1rem;
+  border-radius: .7rem;
 }
 .section__title {
   font-size: 2rem;
