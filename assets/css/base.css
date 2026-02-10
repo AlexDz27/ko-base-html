@@ -1,4 +1,4 @@
-/* Text */
+/* Text and text-like components */
 .warning {
   font-weight: bold;
   background-color: yellow;
@@ -19,6 +19,16 @@
   color: inherit;
 }
 
+.list {}
+.list--spaced {}
+.list--spaced li {
+  margin-bottom: 1.5rem;
+}
+.list--spaced li:last-child {
+  margin-bottom: 0;
+}
+
+/* Other components */
 table {
   font-family: sans-serif;
   border-collapse: collapse; /* Merges the borders of cells */
