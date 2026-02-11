@@ -14,7 +14,9 @@
 .section__body--scratch-movement {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr auto;
   column-gap: 3rem;
+  row-gap: 2rem;
   justify-content: space-between;
 }
 
