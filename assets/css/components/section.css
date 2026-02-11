@@ -10,6 +10,7 @@
 
 .section__body {
   font-size: 1.1rem;
+  margin-top: 1.5rem;
 }
 .section__body--scratch-movement {
   display: grid;
